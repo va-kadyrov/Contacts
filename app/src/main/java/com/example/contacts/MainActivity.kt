@@ -154,7 +154,7 @@ fun getContactExample(i: Int) =
             false,
             "---",
             "Ивановская область, дер. Крутово, д. 4",
-            "")
+            null)
         }
         else -> {
             Contact("-",
